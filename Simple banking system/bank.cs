@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BankLibrary;
+using System;
 using System.Collections.Generic;
 
 
@@ -20,6 +21,7 @@ namespace Bank
             //newAccount.MakeDeposit(-400, DateTime.Now, "stealing");
 
             newAccount.MakeWithdrawal(50, DateTime.Now, "Xbox Game Pass");
+            newAccount.MakeWithdrawal(5, DateTime.Now, "Coffe");
             
             Console.WriteLine(newAccount.GetAccountHistory());
 

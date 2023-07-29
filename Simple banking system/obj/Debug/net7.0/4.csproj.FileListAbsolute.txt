@@ -28,3 +28,21 @@ X:\tamrin\Learn simple banking system\obj\Debug\net7.0\refint\4.dll
 X:\tamrin\Learn simple banking system\obj\Debug\net7.0\4.pdb
 X:\tamrin\Learn simple banking system\obj\Debug\net7.0\4.genruntimeconfig.cache
 X:\tamrin\Learn simple banking system\obj\Debug\net7.0\ref\4.dll
+X:\Tamrin\Simple banking system\bin\Debug\net7.0\4.exe
+X:\Tamrin\Simple banking system\bin\Debug\net7.0\4.deps.json
+X:\Tamrin\Simple banking system\bin\Debug\net7.0\4.runtimeconfig.json
+X:\Tamrin\Simple banking system\bin\Debug\net7.0\4.dll
+X:\Tamrin\Simple banking system\bin\Debug\net7.0\4.pdb
+X:\Tamrin\Simple banking system\bin\Debug\net7.0\BankLibrary.dll
+X:\Tamrin\Simple banking system\bin\Debug\net7.0\BankLibrary.pdb
+X:\Tamrin\Simple banking system\obj\Debug\net7.0\4.csproj.AssemblyReference.cache
+X:\Tamrin\Simple banking system\obj\Debug\net7.0\4.GeneratedMSBuildEditorConfig.editorconfig
+X:\Tamrin\Simple banking system\obj\Debug\net7.0\4.AssemblyInfoInputs.cache
+X:\Tamrin\Simple banking system\obj\Debug\net7.0\4.AssemblyInfo.cs
+X:\Tamrin\Simple banking system\obj\Debug\net7.0\4.csproj.CoreCompileInputs.cache
+X:\Tamrin\Simple banking system\obj\Debug\net7.0\4.csproj.CopyComplete
+X:\Tamrin\Simple banking system\obj\Debug\net7.0\4.dll
+X:\Tamrin\Simple banking system\obj\Debug\net7.0\refint\4.dll
+X:\Tamrin\Simple banking system\obj\Debug\net7.0\4.pdb
+X:\Tamrin\Simple banking system\obj\Debug\net7.0\4.genruntimeconfig.cache
+X:\Tamrin\Simple banking system\obj\Debug\net7.0\ref\4.dll

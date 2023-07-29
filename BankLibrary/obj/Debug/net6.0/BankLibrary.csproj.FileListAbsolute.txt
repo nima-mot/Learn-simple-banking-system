@@ -1,0 +1,12 @@
+X:\Tamrin\BankLibrary\bin\Debug\net6.0\BankLibrary.deps.json
+X:\Tamrin\BankLibrary\bin\Debug\net6.0\BankLibrary.dll
+X:\Tamrin\BankLibrary\bin\Debug\net6.0\BankLibrary.pdb
+X:\Tamrin\BankLibrary\obj\Debug\net6.0\BankLibrary.csproj.AssemblyReference.cache
+X:\Tamrin\BankLibrary\obj\Debug\net6.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+X:\Tamrin\BankLibrary\obj\Debug\net6.0\BankLibrary.AssemblyInfoInputs.cache
+X:\Tamrin\BankLibrary\obj\Debug\net6.0\BankLibrary.AssemblyInfo.cs
+X:\Tamrin\BankLibrary\obj\Debug\net6.0\BankLibrary.csproj.CoreCompileInputs.cache
+X:\Tamrin\BankLibrary\obj\Debug\net6.0\BankLibrary.dll
+X:\Tamrin\BankLibrary\obj\Debug\net6.0\refint\BankLibrary.dll
+X:\Tamrin\BankLibrary\obj\Debug\net6.0\BankLibrary.pdb
+X:\Tamrin\BankLibrary\obj\Debug\net6.0\ref\BankLibrary.dll
