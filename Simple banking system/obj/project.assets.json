@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "x:\\tamrin\\Simple banking system\\Main.csproj",
+      "projectUniqueName": "C:\\Users\\nima\\Documents\\GitHub\\Learn-simple-banking-system\\Simple banking system\\Main.csproj",
       "projectName": "Main",
-      "projectPath": "x:\\tamrin\\Simple banking system\\Main.csproj",
+      "projectPath": "C:\\Users\\nima\\Documents\\GitHub\\Learn-simple-banking-system\\Simple banking system\\Main.csproj",
       "packagesPath": "C:\\Users\\nima\\.nuget\\packages\\",
-      "outputPath": "x:\\tamrin\\Simple banking system\\obj\\",
+      "outputPath": "C:\\Users\\nima\\Documents\\GitHub\\Learn-simple-banking-system\\Simple banking system\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "x:\\tamrin\\BankLibrary\\BankLibrary.csproj": {
-              "projectPath": "x:\\tamrin\\BankLibrary\\BankLibrary.csproj"
+            "C:\\Users\\nima\\Documents\\GitHub\\Learn-simple-banking-system\\BankLibrary\\BankLibrary.csproj": {
+              "projectPath": "C:\\Users\\nima\\Documents\\GitHub\\Learn-simple-banking-system\\BankLibrary\\BankLibrary.csproj"
             }
           }
         }
