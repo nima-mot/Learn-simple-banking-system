@@ -77,7 +77,7 @@ namespace BankLibrary
             report.Append("Date\t\t\tAmount\tNotes");
             foreach(var item in Alltransactions)
             {
-                report.Append($"\n{item.Date}\t{item.AmountTransaction}\t{item.Notes}");
+                report.Append($"\n{item.Date}\t{item.AmountTransaction} to word: {item.AmountToWord}\t{item.Notes}");
             }
             return report.ToString();
         }

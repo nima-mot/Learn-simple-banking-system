@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+hjZD309anySKXOUfoFCL++ALPTMWUPHPOjN5xiHsHV3G5+tp3IG5MX67oIWonQXNAMiVtCq/l79b5l2+GNbaw==",
+  "dgSpecHash": "JTcT/WBSWNj5pqgggSEjy25glB0GOTbrpX5dIc9UE8V3fWFpHiOffsoEdh0LC0IQVSF/HJknL0wr5f3mRhUUxw==",
   "success": true,
   "projectFilePath": "C:\\Users\\nima\\Documents\\GitHub\\Learn-simple-banking-system\\Simple banking system\\Main.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nima\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
   "logs": []
 }
