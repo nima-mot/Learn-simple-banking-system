@@ -1,17 +1,17 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v6.0",
+    "name": ".NETCoreApp,Version=v7.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v6.0": {
-      "BankLibrary/1.0.0": {
+    ".NETCoreApp,Version=v7.0": {
+      "Main/1.0.0": {
         "dependencies": {
-          "Humanizer.Core": "2.14.1"
+          "BankLibrary": "1.0.0"
         },
         "runtime": {
-          "BankLibrary.dll": {}
+          "Main.dll": {}
         }
       },
       "Humanizer.Core/2.14.1": {
@@ -21,11 +21,19 @@
             "fileVersion": "2.14.1.48190"
           }
         }
+      },
+      "BankLibrary/1.0.0": {
+        "dependencies": {
+          "Humanizer.Core": "2.14.1"
+        },
+        "runtime": {
+          "BankLibrary.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "BankLibrary/1.0.0": {
+    "Main/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -36,6 +44,11 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "BankLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

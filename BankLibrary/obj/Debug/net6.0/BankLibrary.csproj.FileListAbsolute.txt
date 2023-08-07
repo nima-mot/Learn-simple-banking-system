@@ -10,3 +10,15 @@ X:\Tamrin\BankLibrary\obj\Debug\net6.0\BankLibrary.dll
 X:\Tamrin\BankLibrary\obj\Debug\net6.0\refint\BankLibrary.dll
 X:\Tamrin\BankLibrary\obj\Debug\net6.0\BankLibrary.pdb
 X:\Tamrin\BankLibrary\obj\Debug\net6.0\ref\BankLibrary.dll
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\BankLibrary\bin\Debug\net6.0\BankLibrary.deps.json
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\BankLibrary\bin\Debug\net6.0\BankLibrary.dll
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\BankLibrary\bin\Debug\net6.0\BankLibrary.pdb
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\BankLibrary\obj\Debug\net6.0\BankLibrary.csproj.AssemblyReference.cache
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\BankLibrary\obj\Debug\net6.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\BankLibrary\obj\Debug\net6.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\BankLibrary\obj\Debug\net6.0\BankLibrary.AssemblyInfo.cs
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\BankLibrary\obj\Debug\net6.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\BankLibrary\obj\Debug\net6.0\BankLibrary.dll
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\BankLibrary\obj\Debug\net6.0\refint\BankLibrary.dll
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\BankLibrary\obj\Debug\net6.0\BankLibrary.pdb
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\BankLibrary\obj\Debug\net6.0\ref\BankLibrary.dll
