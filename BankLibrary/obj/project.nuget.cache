@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QU0AdDLD2lIiGN2Txd3K2AxTF39KwFz7wU7zkmtUXhkYweK40SoD6G9/vHMNUSvlnePlgjx9k6ooIou+H2JbZA==",
+  "dgSpecHash": "JgpoZ4XhqTkyJ5aHv9dqsSZ93vJirvAR2InO+KbIlvHKjLx+GhqF3W5Flg9uhIBZvsDojFrU5HB5s0rTvzdmEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\nima\\Documents\\GitHub\\Learn-simple-banking-system\\BankLibrary\\BankLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nima\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+    "C:\\Users\\nima\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\nima\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\nima\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\nima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
   ],
   "logs": []
 }
