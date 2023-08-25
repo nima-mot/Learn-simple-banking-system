@@ -1,0 +1,8 @@
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\Simple banking system\bin\Release\net7.0\publish\Main.exe
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\Simple banking system\bin\Release\net7.0\publish\Main.dll
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\Simple banking system\bin\Release\net7.0\publish\Main.deps.json
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\Simple banking system\bin\Release\net7.0\publish\Main.runtimeconfig.json
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\Simple banking system\bin\Release\net7.0\publish\Main.pdb
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\Simple banking system\bin\Release\net7.0\publish\Humanizer.dll
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\Simple banking system\bin\Release\net7.0\publish\BankLibrary.dll
+C:\Users\nima\Documents\GitHub\Learn-simple-banking-system\Simple banking system\bin\Release\net7.0\publish\BankLibrary.pdb
